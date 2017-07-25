@@ -8,7 +8,7 @@ What is it:
 Why:
 
 -Gamify creativity and learning
--Crowdsource original creative content from all over the world
+-Crowdsource original creative content from anywhere
 -help people improve their skills through competition
 -I’m motivated to “do” when there is group accountability and constraints - I want to be motivated to learn all the time, and I want to compete to improve myself with others so that we can contribute in bigger and better ways to society, because that is the most meaningful format of life, for me.
 
