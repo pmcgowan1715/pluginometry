@@ -2,8 +2,8 @@ Pluginometry README
 
 What is it:
 
--creative contest platform - “creativity as a sport”
--or, draftkings for creative contests
+<br>-creative contest platform - “creativity as a sport”</br>
+<b>-or, draftkings for creative contests</b>
  
 Why:
 
