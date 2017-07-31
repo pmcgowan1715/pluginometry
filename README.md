@@ -46,6 +46,7 @@
 <br>-people can compete against each other in any imaginable rabbit hole of a topic</br>
 <br>-resources for learning how to improve your skills</br>
 <br>-games</br>
+<br>-brand-hosted creative contests "Tesla just posted a $1000 reward for (insert engineering/design or ad concept, etc.)"
 
 <br><b>Plug Example:</b></br>
 
