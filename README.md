@@ -1,36 +1,5 @@
 <b>Pluginometry README</b>
 
-<br><b>What is it:</b></br>
-
-<br>-creative contest platform - “creativity as a sport”</br>
-<b>-or, draftkings for creative contests</b>
- 
-<br><b>Why:</b></br>
-
-<br>-Gamify creativity and learning</br>
-<br>-Crowdsource original creative content from anywhere</br>
-<br>-help people improve their skills through competition</br>
-<br>-I’m motivated to “do” when there is group accountability and constraints - I want to be motivated to learn all the time, and I want to compete to improve myself with others so that we can contribute in bigger and better ways to society, because that is the most meaningful format of life, for me.</br>
-
-<br><b>Inspiration:</b></br>
-
-<br>https://www.youtube.com/watch?v=ZZvRw71Slew
-<br>“his grandma has a heart attack while driving, grandson is in the passenger seat. Grandson quickly grabs the wheel and turns car into safe area. tells police he learned how to do that from mario kart.”</br>
-
-<br>^games are simulations/practice for reality.</br>
-
-<br><b>Business Model:</b></br>
-
-<br>-free leagues</br>
-<br>-paid leagues (pluginometry takes a cut)</br>
-
-<br><b>How it works:</b></br>
-
-<br>-Set up your free “league” and invite your friends - free and paid leagues</br>
-<br>-Compete with any number of friends - add more friends at any time</br>
-<br>-League leaderboards track your performances against your friends</br>
-<br>-Leagues continue as long as you want - play daily, weekly, monthly, yearly, etc.</br>
-
 <br>-Games are called “Plugs”</br>
 <br>-Users compete in Plugs together based on specified terms:</br>
 	<br>-Theme (Topic - 140 characters max)</br>
